@@ -3,7 +3,7 @@ Device Tree for Motorola Moto E4 Plus (Mediatek)(Credits to Roxassora/sonic_warr
 
 WARNING!!! Read this first:
 
-*Download the source code to "_your_directory_/device/motorola/nicklaus"
+* Download the source code to "_your_directory_/device/motorola/nicklaus".
 
 * When compiling a rom for Moto E4 Plus you need to download
 the MT6737 device tree to your source code, you have 
@@ -13,6 +13,7 @@ You can find the source in my repository, just search
 
 
 ===========================================
+
 The Motorola Moto E4 Plus (codenamed _"nicklaus"_) is a mid-range smartphone from Motorola.
 
 Basic   | Spec Sheet
