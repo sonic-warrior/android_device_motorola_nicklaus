@@ -1,4 +1,4 @@
-Device Tree for Motorola Moto E4 Plus (Credits to SamarV-121 for the source)
+Device Tree for Motorola Moto E4 Plus (Credits to Roxassora/sonic_warrior for the source)
 ===========================================
 
 The Motorola Moto E4 Plus (codenamed _"nicklaus"_) is a mid-range smartphone from Motorola.
