@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_mediatek_mt6737-common",
+    "target_path": "device/mediatek/mt6737-common"
+  }
+]
