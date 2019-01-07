@@ -10,7 +10,8 @@ the MT6737 device tree to your source code, you have
 to add it to "_your_directory_/device/mediatek/mt6737-commom".
 You can find the source in my repository, just search 
 "android_device_mediatek_mt6737-commom"
-===========================================
+
+
 
 The Motorola Moto E4 Plus (codenamed _"nicklaus"_) is a mid-range smartphone from Motorola.
 
