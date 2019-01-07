@@ -1,6 +1,17 @@
-Device Tree for Motorola Moto E4 Plus (Credits to Roxassora/sonic_warrior for the source)
+Device Tree for Motorola Moto E4 Plus (Mediatek)(Credits to Roxassora/sonic_warrior for the source)
 ===========================================
 
+WARNING!!! Read this first:
+*Download the source code to "_your_directory_/device/motorola/nicklaus"
+
+* When compiling a rom for Moto E4 Plus you need to download
+the MT6737 device tree to your source code, you have 
+to add it to "_your_directory_/device/mediatek/mt6737-commom".
+You can find the source in my repository, just search 
+"android_device_mediatek_mt6737-commom"
+
+
+===========================================
 The Motorola Moto E4 Plus (codenamed _"nicklaus"_) is a mid-range smartphone from Motorola.
 
 Basic   | Spec Sheet
@@ -12,7 +23,7 @@ Memory  | 2GB RAM
 Shipped Android Version | 7.1.1
 Storage | 16GB
 MicroSD | Up to 128GB
-Battery | 5000mAh
+Battery | 5500mAh
 Display | 720 x 1280 pixels, 5.5 inches
 Camera  | Main 13MP / Front 5MP, autofocus, LED flash
 
