@@ -1,0 +1,22 @@
+"[
+  {
+    "repository":  "kernel_motorola_nicklaus",
+    "target_path": "kernel/motorola/nicklaus",
+    "branch":      "12.1"
+  },
+  {
+    "repository":  "vendor_motorola_nicklaus",
+    "target_path": "vendor/motorola/nicklaus",
+    "branch":      "12.1"
+  },
+  {
+    "repository":  "PixelExperience/packages_resources_devicesettings-custom",
+    "target_path": "packages/resources/devicesettings-custom",
+    "branch":      "eleven"
+  },
+  {
+    "repository":  "LineageOS/android_packages_apps_FMRadio",
+    "target_path": "packages/apps/FMRadio",
+    "branch":      "lineage-18.1"
+  }
+]
