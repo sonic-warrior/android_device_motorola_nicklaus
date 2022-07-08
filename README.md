@@ -20,7 +20,7 @@ Camera  | Main 13MP / Front 5MP, autofocus, LED flash
 ![Moto E4 Plus](http://drop.ndtv.com/TECH/product_database/images/6132017104528AM_635_motoe4plusdb.jpeg "Moto E4 Plus")
 
 
-Developer notes before you try to build
+Read this before you try to build
 ===========================================
 
 Before you try to build any rom using this codebase, you need to known that this is a _"work in progress"_ project
@@ -35,7 +35,7 @@ the processor has support for 64 bits roms. Also the kernel source
 code from Motorola itself has a build system already made for a 64 bit
 version of the 3.18 kernel for the Moto E4 Plus. Why did they choose
 to ship a 32 bit version of the Android OS instead of a 64 bit version
-for a lot of their devices from the same time still a mysterie to me.
+for a lot of their devices from the same time still a mystery to me.
 Maybe because of the amount of RAM?).
 
 Originally, I was targeting Android 9, but at that time I didn't have
